@@ -1,0 +1,6 @@
+customer_id,name,email,phone,last_updated
+1001,John Doe,johndoe@example.com,123-456-7890,2024-04-01 08:00:00
+1002,Jane Smith,janesmith@example.com,234-567-8901,2024-04-01 09:30:00
+1003,Michael Johnson,michael@example.com,345-678-9012,2024-04-01 10:45:00
+1004,Sarah Lee,sarahlee@example.com,456-789-0123,2024-04-02 08:00:00
+1005,Robert Brown,robertbrown@example.com,567-890-1234,2024-04-02 09:30:00
