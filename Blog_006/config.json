@@ -1,0 +1,14 @@
+[
+    {
+        "table_name": "customers",
+        "last_updated": "2024-01-04 08:11:07"
+    },
+    {
+        "table_name": "orders",
+        "last_updated": "2024-01-04 08:11:07"
+    },
+    {
+        "table_name": "products",
+        "last_updated": "2024-01-04 08:11:07"
+    }
+]
